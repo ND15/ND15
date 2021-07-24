@@ -5,6 +5,7 @@
 - 📫 How to reach me:  Drop an email on skullynoodie@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ND15&layout=compact)](https://github.com/ND15/github-readme-stats)
+[![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=ND15)](https://github.com/ND15/github-readme-stats)
 
 
 <!---
